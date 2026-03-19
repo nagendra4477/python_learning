@@ -95,7 +95,11 @@ celerybeat-schedule
 .vscode/
 .idea/
 *.iml
+.kilocode/
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Generated local outputs
+*.csv
